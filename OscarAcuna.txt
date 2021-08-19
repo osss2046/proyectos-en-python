@@ -1,0 +1,2 @@
+nombre: Oscar Acuña Rivas
+rut: 189370318
